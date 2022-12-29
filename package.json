@@ -8,7 +8,7 @@
     "url": "https://github.com/MatheusFrez/eslint-vue3-typescript.git"
   },
   "publishConfig": {
-    "access": "public"
+    "registry": "https://npm.pkg.github.com"
   },
   "release": { "branches": [ "main" ] },
   "files": [
