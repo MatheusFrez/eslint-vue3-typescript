@@ -1,11 +1,14 @@
 {
-  "name": "@MatheusFrez/eslint-vue3-typescript",
+  "name": "@matheusfrez/eslint-vue3-typescript",
   "version": "1.0.0",
   "description": "This package provides ESLint shared config files to use with vue3 and typescript",
   "main": "index.js",
-  "repository": "https://github.com/MatheusFrez/eslint-vue3-typescript.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MatheusFrez/eslint-vue3-typescript.git"
+  },
   "publishConfig": {
-    "@matheusfrez:registry": "https://npm.pkg.github.com"
+    "access": "public"
   },
   "release": { "branches": [ "main" ] },
   "files": [
