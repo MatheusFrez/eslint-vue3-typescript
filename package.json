@@ -1,6 +1,6 @@
 {
   "name": "@matheusfrez/eslint-vue3-typescript",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "This package provides ESLint shared config files to use with vue3 and typescript",
   "main": "index.js",
   "repository": {
